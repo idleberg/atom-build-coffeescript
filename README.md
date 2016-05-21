@@ -12,12 +12,25 @@
 
 ### apm
 
-* Install package `apm install build-coffeescript` (or use the GUI)
+Install `build-coffeescript` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
+
+`$ apm install build-coffeescript`
 
 ### GitHub
 
-1. Change directory `cd ~/.atom/packages/`
-2. Clone repository `git clone https://github.com/idleberg/atom-build-coffeescript build-coffeescript`
+Change to your Atom packages directory:
+
+```bash
+# Windows
+$ cd %USERPROFILE%\.atom\packages
+
+# Mac OS X & Linux
+$ cd ~/.atom/packages/
+```
+
+Clone repository as `build-coffeescript`:
+
+`$ git clone https://github.com/idleberg/atom-build-coffeescript build-coffeescript`
 
 ## Usage
 
