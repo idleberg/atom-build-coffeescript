@@ -1,13 +1,14 @@
 {
   "name": "build-coffeescript",
   "version": "0.3.1",
-  "description": "Atom Build provider for CoffeeScript, compiles CoffeeScript",
-  "repository": "https://github.com/idleberg/atom-build-coffeescript",
+  "description": "Atom Build provider for coffee, compiles CoffeeScript",
+  "repository": "https://github.com/idleberg/atom-build-coffees",
   "license": "MIT",
   "keywords": [
     "build",
     "compile",
     "coffeescript",
+    "coffee",
     "javascript",
     "coffee"
   ],

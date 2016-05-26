@@ -1,20 +1,20 @@
-[![apm](https://img.shields.io/apm/l/build-coffeescript.svg?style=flat-square)](https://atom.io/packages/build-coffeescript)
-[![apm](https://img.shields.io/apm/v/build-coffeescript.svg?style=flat-square)](https://atom.io/packages/build-coffeescript)
-[![apm](https://img.shields.io/apm/dm/build-coffeescript.svg?style=flat-square)](https://atom.io/packages/build-coffeescript)
-[![Travis](https://img.shields.io/travis/idleberg/atom-build-coffeescript.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-coffeescript)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-coffeescript.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-coffeescript#info=dependencies)
+[![apm](https://img.shields.io/apm/l/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
+[![apm](https://img.shields.io/apm/v/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
+[![apm](https://img.shields.io/apm/dm/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
+[![Travis](https://img.shields.io/travis/idleberg/atom-build-coffee.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-coffee)
+[![David](https://img.shields.io/david/dev/idleberg/atom-build-coffee.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-coffee#info=dependencies)
 
-# build-coffeescript
+# build-coffee
 
-[Atom Build](https://atombuild.github.io/) provider for CoffeeScript, compiles CoffeeScript into JavaScript
+[Atom Build](https://atombuild.github.io/) provider for `coffee`, compiles CoffeeScript into JavaScript
 
 ## Installation
 
 ### apm
 
-Install `build-coffeescript` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
+Install `build-coffee` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
 
-`$ apm install build-coffeescript`
+`$ apm install build-coffee`
 
 ### GitHub
 
@@ -28,9 +28,9 @@ $ cd %USERPROFILE%\.atom\packages
 $ cd ~/.atom/packages/
 ```
 
-Clone repository as `build-coffeescript`:
+Clone repository as `build-coffee`:
 
-`$ git clone https://github.com/idleberg/atom-build-coffeescript build-coffeescript`
+`$ git clone https://github.com/idleberg/atom-build-coffee build-coffee`
 
 ## Usage
 
@@ -70,4 +70,4 @@ This work is licensed under the [The MIT License](LICENSE.md).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-coffeescript) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-coffee) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
