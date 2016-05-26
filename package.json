@@ -1,6 +1,6 @@
 {
   "name": "build-coffee",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Atom Build provider for coffee, compiles CoffeeScript",
   "repository": "https://github.com/idleberg/atom-build-coffees",
   "license": "MIT",
