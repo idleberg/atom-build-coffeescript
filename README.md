@@ -1,10 +1,10 @@
+# build-coffee
+
 [![apm](https://img.shields.io/apm/l/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
 [![apm](https://img.shields.io/apm/v/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
 [![apm](https://img.shields.io/apm/dm/build-coffee.svg?style=flat-square)](https://atom.io/packages/build-coffee)
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-coffee.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-coffee)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-coffee.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-coffee#info=dependencies)
-
-# build-coffee
 
 [Atom Build](https://atombuild.github.io/) provider for `coffee`, compiles CoffeeScript into JavaScript
 
