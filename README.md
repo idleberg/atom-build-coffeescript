@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-coffee.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-coffee)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-coffee.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-coffee#info=dependencies)
 
-[Atom Build](https://atombuild.github.io/) provider for `coffee`, compiles CoffeeScript into JavaScript. Supports the [linter](https://atom.io/packages/linter) package with a set error patterns.
+[Atom Build](https://atombuild.github.io/) provider for `coffee`, compiles CoffeeScript into JavaScript. Supports the [linter](https://atom.io/packages/linter) package with a set of error patterns.
 
 ## Installation
 
