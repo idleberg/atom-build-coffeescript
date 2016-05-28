@@ -10,7 +10,9 @@
     "coffeescript",
     "coffee",
     "javascript",
-    "coffee"
+    "coffee",
+    "linter",
+    "lint"
   ],
   "main": "lib/provider.js",
   "engines": {
