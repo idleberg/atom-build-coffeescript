@@ -9,6 +9,10 @@
 
 [Atom Build](https://atombuild.github.io/) provider for `coffee`, compiles CoffeeScript into JavaScript. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
 
+![Screenshot](https://raw.githubusercontent.com/idleberg/atom-build-coffee/master/screenshot.png)
+
+*See the linter in action*
+
 ## Installation
 
 ### apm
