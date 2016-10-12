@@ -39,10 +39,9 @@ Clone repository as `build-coffee`:
 $ git clone https://github.com/idleberg/atom-build-coffee build-coffee
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-coffee
 $ yarn || npm install
 ```
 
