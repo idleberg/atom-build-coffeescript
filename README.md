@@ -21,7 +21,7 @@ Install `build-coffee` from Atom's [Package Manager](http://flight-manual.atom.i
 
 `$ apm install build-coffee`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
