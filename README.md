@@ -56,7 +56,7 @@ Available targets:
 * `CoffeeScript` — compile script (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd>)
 * `CoffeeScript --map` — compile script and create a map (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Cmd</kbd>+<kbd>B</kbd>)
 * `CoffeeScript --bare` — compile script without the top-level function safety wrapper (<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>)
-* `CoffeeScript (user)` — compile script without user settings
+* `CoffeeScript (user)` — compile script with arguments specified in the package settings
 
 ### Shortcuts
 
